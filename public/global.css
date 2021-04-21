@@ -1,0 +1,9 @@
+#footer-nav {
+	/* background-color: orange; */
+	position: absolute;
+	left: 22px;
+	bottom: 0;
+	height: 42px;
+	width: 100%;
+	overflow: hidden;
+}
